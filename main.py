@@ -3,8 +3,8 @@ import numpy as np
 
 conn = mysql.connector.connect(
     host = 'localhost',
-    user = 'root',
-    password = 'HansGans0506_',
+    user = 'your-username',
+    password = 'your-password',
     database = 'cruds'
 )
 
